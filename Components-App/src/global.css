@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+:root {
+  --color-primary: theme("colors.blue.500");
+  --color-secondary: theme("colors.green.500");
+  --color-accent: theme("colors.purple.500");
+}
